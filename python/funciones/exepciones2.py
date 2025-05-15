@@ -7,9 +7,9 @@ def divicion_segura():
         num2 = int(input("ingresa otro numero:"))
         resultado = num1 / num2
         print("el resultado de la divicion es:", resultado)
-    exept ZeroDivisionError:
+    except ZeroDivisionError:
         print("lo sentimos no se puede realizar esta divicion")
-    exept ValueError:
+    except ValueError:
         print("Error. solo debes ingresar numeros")
     
 divicion_segura()
