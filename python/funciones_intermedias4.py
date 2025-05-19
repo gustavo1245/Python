@@ -18,27 +18,3 @@ def informacionDiccionario(diccionario):
 print("\n Iterar a traves de un diccionario con valores de la lista")    
 
 informacionDiccionario(costa_rica)
-
-#imprime:
-
-# 4 CIUDADES
-
-# San José
-
-# Limón
-
-# Cartago
-
-# Puntarenas
-
-# 5 COMIDAS
-
-# gallo pinto
-
-# casado
-
-# tamales
-
-# chifrijo
-
-# olla de carne
